@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Maxessien/vdl-tube-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Maxessien/vdl-tube-backend.git
